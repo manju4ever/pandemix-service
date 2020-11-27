@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+     <Pause>2</Pause>
+    <Say>Hello there this is an emergency call from Pandemic Tracker</Say>
+    <Pause>2</Pause>
+    <Say>You might have been recently exposed to COVId-19 person recently. If you're exhibiting some
+          serious symptoms. Call 1507 immediately</Say>
+</Response>
