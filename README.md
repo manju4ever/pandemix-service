@@ -20,5 +20,5 @@ This is a service that's meant to provide basic functionalities like, user regis
 
 * Run `npm run build && npm run deploy`
 
-#### Use the files under `config` folder to customize your setting like host, port, api keys and more
+#### Use the files under `config` folder to customize your settings like host, port, api keys and more.
 
